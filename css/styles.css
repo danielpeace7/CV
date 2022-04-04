@@ -1,0 +1,67 @@
+body {
+  background-color: #EFFFFD;
+  font-family: cursive;
+}
+
+hr {
+  border-style: none;
+  border-bottom: dotted;
+  border-width: 8px;
+  border-color: #65C18C;
+  width: 5%;
+}
+
+h1 {
+  font-family: cursive;
+  color: #65C18C;
+}
+
+h3 {
+  padding: 20px;
+  font-family: cursive;
+  text-align: center;
+  color: #65C18C;
+}
+
+.education h3 {
+  background-color: #65C18C;
+  color: #EFFFFD;
+}
+
+.hobbies h3 {
+  background-color: #65C18C;
+  color: #EFFFFD;
+}
+
+.work-experience h3 {
+  background-color: #65C18C;
+  color: #EFFFFD;
+}
+
+.work-experience table, .work-experience thead, .work-experience tr, .work-experience th .work-experience td {
+  border: 1px solid #4C4C6D;
+  border-collapse: collapse;
+  text-align: left;
+  width: 100%;
+}
+
+.work-experience td {
+  border: 1px solid #4C4C6D;
+  border-collapse: collapse;
+}
+
+.work-experience th {
+  border: 1px solid #4C4C6D;
+  border-collapse: collapse;
+}
+
+.skills h3 {
+  background-color: #65C18C;
+  color: #EFFFFD;
+}
+
+.contact-me {
+  background-color: #65C18C;
+  text-align: center;
+  padding: 20px;
+}
